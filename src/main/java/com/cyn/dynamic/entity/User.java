@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyn.dynamic.demos.web;
+package com.cyn.dynamic.entity;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>

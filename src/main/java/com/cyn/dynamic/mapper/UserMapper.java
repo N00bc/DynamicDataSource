@@ -1,6 +1,6 @@
 package com.cyn.dynamic.mapper;
 
-import com.cyn.dynamic.demos.web.User;
+import com.cyn.dynamic.entity.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 

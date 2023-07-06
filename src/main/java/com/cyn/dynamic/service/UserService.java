@@ -1,7 +1,7 @@
 package com.cyn.dynamic.service;
 
 import com.cyn.dynamic.anno.DynamicDataSource;
-import com.cyn.dynamic.demos.web.User;
+import com.cyn.dynamic.entity.User;
 import com.cyn.dynamic.mapper.UserMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
